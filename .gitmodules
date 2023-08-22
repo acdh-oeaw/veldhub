@@ -1,3 +1,6 @@
 [submodule "veldhub_backend"]
 	path = veldhub_backend
 	url = git@github.com:acdh-oeaw/veldhub_backend.git
+[submodule "veldhub_frontend"]
+	path = veldhub_frontend
+	url = git@github.com:acdh-oeaw/veldhub_frontend.git
